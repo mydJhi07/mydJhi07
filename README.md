@@ -256,5 +256,5 @@ Aku terbuka untuk **kolaborasi proyek**, **diskusi IoT**, dan **belajar bareng**
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/mydJhi07">Kiyo</a> — keep building, keep learning.</i>
+  <i>⭐ From <a href="https://github.com/mydJhi07">Yeurekaaa</a> — keep building, keep learning.</i>
 </div>
