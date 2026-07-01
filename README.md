@@ -16,9 +16,8 @@
   </a>
 </div>
 
-<!-- ======================== STATS & SOCIAL ======================== -->
+<!-- ======================== FOLLOWERS ======================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mydJhi07&label=Profile+Views&color=38BDF8&style=for-the-badge&labelColor=0F2027" alt="Profile Views" />
   <a href="https://github.com/mydJhi07?tab=followers">
     <img src="https://img.shields.io/github/followers/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github&label=Followers" alt="Followers" />
   </a>
@@ -47,7 +46,7 @@ class Kiyo:
         self.role       = "Informatics Engineering Student"
         self.university = "Hasanuddin University (UNHAS)"
         self.semester   = 3
-        self.location   = "Indonesia 🇮🇩"
+        self.location   = "Makassar, Indonesia"
         self.focus      = ["IoT Engineering",
                            "Embedded Systems",
                            "Data Structures & Algorithms"]
@@ -155,24 +154,8 @@ graph LR
 <!-- ======================== FEATURED PROJECTS ======================== -->
 ## 📌 Featured Projects
 
-<!--
-  💡 CARA PAKAI:
-  1. Ganti REPO_NAME_1 / REPO_NAME_2 dengan nama repo aslimu.
-  2. Hapus baris pembuka komentar di atas (<!--) dan penutup di bawah (-->)
-     agar kartu proyek muncul. Tambah/kurangi kartu sesukamu.
-
 <div align="center">
-  <a href="https://github.com/mydJhi07/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mydJhi07/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
--->
-
-<div align="center">
-  <i>🚧 Segera hadir — proyek IoT & Data Structures pilihan akan tampil di sini.</i>
+  <i>🚧 Proyek pilihan (IoT & Data Structures) akan segera tampil di sini.</i>
 </div>
 
 ---
