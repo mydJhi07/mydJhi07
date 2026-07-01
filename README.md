@@ -1,16 +1,29 @@
+<!-- ============================================================
+     GITHUB PROFILE README · Yeurekaaa (mydJhi07)
+     Theme  : Deep Ocean → Cyan
+     Accent : #38BDF8   ·   Base: #0F2027
+     ============================================================ -->
+
 <!-- ======================== HEADER BANNER ======================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Yeurekaaa%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20IoT%20Engineer%20%7C%20Informatics%20Student&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi,%20I'm%20Yeurekaaa%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Aspiring%20IoT%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Informatics%20Student&descAlignY=54&descSize=16" width="100%"/>
 </div>
 
 <!-- ======================== TYPING ANIMATION ======================== -->
 <div align="center">
   <a href="https://github.com/mydJhi07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student+%40+UNHAS;Aspiring+IoT+Engineer+%26+Researcher;C+%2F+C%2B%2B+%2F+Python+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+tools+that+help+people+learn+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Informatics+Engineering+Student+%40+UNHAS;Aspiring+IoT+Engineer+%26+Researcher;C+%2F+C%2B%2B+%2F+Python+Developer;Data+Structures+%26+Algorithms+Enthusiast;Chasing+ONMIPA+%26+GEMASTIK+Goals+%F0%9F%8F%86;Building+tools+that+help+people+learn+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- ======================== SOCIAL & BADGES ======================== -->
+<!-- ======================== STATS & SOCIAL ======================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mydJhi07&label=Profile+Views&color=38BDF8&style=for-the-badge&labelColor=0F2027" alt="Profile Views" />
+  <a href="https://github.com/mydJhi07?tab=followers">
+    <img src="https://img.shields.io/github/followers/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github&label=Followers" alt="Followers" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://instagram.com/muhammad_ydha">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -18,9 +31,6 @@
   <a href="https://github.com/mydJhi07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br/>
-  <img src="https://img.shields.io/github/followers/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github" />
-  <img src="https://img.shields.io/github/stars/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github" />
 </div>
 
 <br/>
@@ -28,7 +38,7 @@
 <!-- ======================== ABOUT ME ======================== -->
 ## 🚀 About Me
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=mydJhi07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" />
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=mydJhi07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" />
 
 ```python
 class Kiyo:
@@ -43,7 +53,8 @@ class Kiyo:
                            "Data Structures & Algorithms"]
         self.languages  = ["C", "C++", "Python"]
         self.learning   = "Electronics → MCU → IoT Systems"
-        self.goals      = ["GEMASTIK",
+        self.goals      = ["ONMIPA  (Mathematics)",
+                           "GEMASTIK (ICT)",
                            "IoT Engineer / Researcher"]
 
     def say_hi(self):
@@ -141,18 +152,50 @@ graph LR
 
 ---
 
+<!-- ======================== FEATURED PROJECTS ======================== -->
+## 📌 Featured Projects
+
+<!--
+  💡 CARA PAKAI:
+  1. Ganti REPO_NAME_1 / REPO_NAME_2 dengan nama repo aslimu.
+  2. Hapus baris pembuka komentar di atas (<!--) dan penutup di bawah (-->)
+     agar kartu proyek muncul. Tambah/kurangi kartu sesukamu.
+
+<div align="center">
+  <a href="https://github.com/mydJhi07/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mydJhi07/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+-->
+
+<div align="center">
+  <i>🚧 Segera hadir — proyek IoT & Data Structures pilihan akan tampil di sini.</i>
+</div>
+
+---
+
 <!-- ======================== GITHUB ANALYTICS ======================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="48%" src="https://streak-stats.demolab.com?user=mydJhi07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mydJhi07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
+  <img height="180" src="https://streak-stats.demolab.com?user=mydJhi07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mydJhi07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mydJhi07&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=38BDF8&line=38BDF8&point=FFFFFF&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mydJhi07&bg_color=0F2027&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1C424E&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- ======================== TROPHIES ======================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mydJhi07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -162,7 +205,7 @@ graph LR
 
 <div align="center">
 
-<!-- Snake muncul setelah setup .github/workflows/snake.yml (lihat panduan) -->
+<!-- Snake muncul setelah workflow .github/workflows/snake.yml berjalan minimal 1x -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mydJhi07/mydJhi07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mydJhi07/mydJhi07/output/github-snake.svg" />
@@ -177,7 +220,8 @@ graph LR
 ## 🎯 2026 Goals
 
 ```text
-🥇 [████░░░░░░] Berpartisipasi di GEMASTIK
+🥇 [███░░░░░░░] Lolos & tampil di ONMIPA (Matematika)
+🏅 [████░░░░░░] Berpartisipasi di GEMASTIK
 🔧 [███░░░░░░░] Selesaikan 3 proyek IoT end-to-end (sensor → cloud)
 📖 [█████░░░░░] Kuasai embedded C & komunikasi serial
 🌐 [████░░░░░░] Bangun portofolio IoT yang solid
