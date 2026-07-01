@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mydJhi07&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github" />
   <img src="https://img.shields.io/github/stars/mydJhi07?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github" />
 </div>
@@ -142,27 +141,6 @@ graph LR
 
 ---
 
-<!-- ======================== FEATURED PROJECTS ======================== -->
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mydJhi07/Program-database">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=Program-database&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mydJhi07/Analisis-Konvolusi-Citra-dan-Optimasi-Stressen">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mydJhi07&repo=Analisis-Konvolusi-Citra-dan-Optimasi-Stressen&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🗄️ **Program-database** | Program manajemen database berbasis C — implementasi struktur data & operasi data dari nol | `C` |
-| 🖼️ **Analisis Konvolusi Citra & Optimasi Strassen** | Konvolusi citra digital (menggunakan `stb_image`) dan perbandingan perkalian matriks standar vs algoritma **Strassen** untuk optimasi performa | `C` |
-
----
-
 <!-- ======================== GITHUB ANALYTICS ======================== -->
 ## 📊 GitHub Analytics
 
@@ -175,23 +153,6 @@ graph LR
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mydJhi07&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=38BDF8&line=38BDF8&point=FFFFFF&area=true" />
-</div>
-
-### 📈 Detailed Summary
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mydJhi07&theme=tokyonight" />
-</div>
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mydJhi07&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mydJhi07&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mydJhi07&theme=tokyonight&utcOffset=8" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mydJhi07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
