@@ -143,6 +143,17 @@ TRAIT_ITEMS = {
     "wears a cracked monocle": "A sliver of monocle glass",
 }
 
+# One shared pool for the guilty and the innocent alike: a reaction must
+# never be a logical tell — only the testimony itself can convict.
+CONFRONTATION_REACTIONS = [
+    '{name} goes very still. "I have told you where I was. I shall not tell you again."',
+    '{name} laughs, a little too quickly. "Then someone is mistaken — and it is not I."',
+    '"You would take {other}\'s word over mine?" {name} snaps, color rising.',
+    '{name} studies the carpet. "Memories blur at a time like this. Mine does not."',
+    '"Extraordinary," {name} says coldly. "Someone in this house is lying to you, detective."',
+    '{name} folds their arms. "I was in the {room} at {time}. Press the point at your peril."',
+]
+
 MOTIVE_DISCOVERY_TEXTS = [
     "A letter in a drawer of the {room} reveals that {name} {motive}.",
     "A page of the victim's diary, found in the {room}, records that {name} {motive}.",

@@ -333,11 +333,12 @@ def _attempt_case(rng: random.Random, seed: int, difficulty: Difficulty,
 
     # Discoverable motives (letters, diary pages) for everyone who has one.
     for name, motive in motives.items():
+        motive_room = rng.choice(room_names)
         clues.append(MotiveClue(
             suspect=name,
-            room_found=rng.choice(room_names),
+            room_found=motive_room,
             description=rng.choice(narrative.MOTIVE_DISCOVERY_TEXTS).format(
-                room=rng.choice(room_names), name=name, motive=motive),
+                room=motive_room, name=name, motive=motive),
         ))
 
     facts = PublicCaseFacts(
