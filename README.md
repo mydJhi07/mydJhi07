@@ -1,121 +1,98 @@
-<div align="center">
-  <h1>Hi, I'm Muhammad Yudha Damanhuri 👋</h1>
-  <h3>Informatics Engineering Student | Aspiring Data Scientist & AI Engineer</h3>
-  <p><i>Transforming raw data into actionable insights and intelligent systems.</i></p>
-</div>
+# Hi, I'm Muhammad Yudha Damanhuri 👋
+
+### Informatics Engineering Student | Aspiring Data Scientist & AI Engineer
+
+I'm an Informatics Engineering student focused on **Data Science**, with a strong interest in **Data Analysis, Machine Learning, Artificial Intelligence, Statistics, Mathematics, and Python**.
+
+> **Learning the fundamentals, building with data, and turning knowledge into meaningful solutions.**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am an Informatics Engineering student with a strong passion for Data Science and Artificial Intelligence. My journey is driven by a deep fascination with how mathematics, statistics, and code come together to solve complex real-world problems.
-
-- 🔭 Currently focusing on building a robust foundation in **Data Science, Machine Learning, and Artificial Intelligence**.
-- 📐 Deeply interested in the mathematical underpinnings of algorithms, particularly **calculus, linear algebra, and probability**.
-- 💻 Developing technical proficiency in Python and data analysis, while reinforcing core logic and computational concepts through C and C++.
-- 🚀 Actively building my portfolio through hands-on data projects and sharpening my problem-solving skills via competitive programming.
-
----
-
-## 🎯 Current Focus
-
-- [x] Python & Core Programming Logic
-- [x] Mathematics for Data Science (Linear Algebra, Calculus)
-- [x] Statistics & Probability
-- [x] Data Analysis (NumPy, Pandas)
-- [ ] Data Visualization (Matplotlib, Seaborn)
-- [ ] SQL & Database Management
-- [ ] Machine Learning Fundamentals
+- 🎓 Informatics Engineering student
+- 📊 Focused on learning **Data Science**
+- 📐 Interested in **Mathematics, Statistics, and Probability**
+- 🐍 Currently strengthening my **Python** and data analysis fundamentals
+- 🤖 Exploring **Machine Learning and Artificial Intelligence**
+- 💻 Developing programming and problem-solving skills through projects and competitive programming
+- 🚀 Currently building my fundamentals and portfolio step by step
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Current Focus
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+I'm currently focusing on strengthening the foundations required for Data Science:
 
-**Data Science & Analysis (Learning & Exploring)**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- 🔄 **Python Fundamentals**
+- 🔄 **Statistics & Probability**
+- 🔄 **Mathematics for Data Science**
+- 🔄 **Data Analysis**
+- 🔄 **NumPy & Pandas**
+- 🔄 **Data Visualization**
+- 🔄 **SQL & Databases**
+- ⏳ **Machine Learning**
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Environments**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+> My current priority is understanding the fundamentals deeply before moving into more advanced topics.
 
 ---
 
-## 🗺️ Data Science Journey
+## Tech Stack
 
-- ✅ **Foundations:** Python, C/C++, Calculus, Linear Algebra
-- 🔄 **In Progress:** Statistics, Probability, Data Analysis (NumPy & Pandas)
-- ⏳ **Next Steps:** Data Visualization, SQL, Machine Learning Models
-- 📅 **Future Goals:** Deep Learning, Artificial Intelligence, Applied AI Solutions
+### Programming
 
----
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-## 📂 Featured Projects
+### Data Science
 
-### 📊 [Project Name 1: e.g., Exploratory Data Analysis on XYZ Dataset]
-> A brief description of the project, the statistical methods applied, and the insights discovered from the data.
-> **Tech:** Python, Pandas, NumPy
-> [[View Source Code](#)] <!-- Replace # with actual GitHub repository URL -->
+![NumPy](https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Exploring-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Exploring-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-Exploring-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 📈 [Project Name 2: e.g., Descriptive Statistics & Probability Dashboard]
-> Application of fundamental statistics and probability concepts to analyze real-world trends.
-> **Tech:** Python, Jupyter Notebook
-> [[View Source Code](#)] <!-- Replace # with actual GitHub repository URL -->
+### Database
 
-### ⚙️ [Project Name 3: e.g., University Course Management System]
-> A modular programming approach to handle data structures, inputs, and outputs efficiently.
-> **Tech:** C / C++
-> [[View Source Code](#)] <!-- Replace # with actual GitHub repository URL -->
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-*(More projects coming soon as I continue to build my portfolio!)*
+### Tools
 
----
-
-## 🧠 Problem Solving & Competitive Programming
-
-To build a strong foundation in computational thinking, algorithmic efficiency, and data structures, I actively practice on competitive programming platforms. This strengthens my ability to write optimized code before applying it to large datasets.
-
-- **Platforms:** AtCoder | Codeforces
-- **Focus Areas:** Algorithmic thinking, optimization, data structures, and mathematical logic.
+![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Using-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Using-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Learning-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-Learning-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 ---
 
-## 📈 GitHub Statistics
+## Data Science Learning Journey
 
-<!-- NOTE: Ganti "YOUR_GITHUB_USERNAME" dengan username GitHub asli Anda -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=000000" alt="Top Languages" />
-</div>
-
----
-
-## 💡 Philosophy
-
-> *"Understand the math, write the code, analyze the outcome, optimize the model."*
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <!-- NOTE: Ganti URL di dalam href dengan link Anda sendiri -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
-
-<br>
-<div align="center">
-  <p><i>Extracting value from data. Always learning, always building.</i></p>
-</div>
+```text
+Python Fundamentals
+        │
+        ▼
+Mathematics for Data Science
+        │
+        ▼
+Statistics & Probability
+        │
+        ▼
+Data Analysis
+        │
+        ▼
+Data Visualization
+        │
+        ▼
+SQL & Databases
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+AI & Applied Data Science
